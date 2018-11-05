@@ -1,18 +1,22 @@
 {
   "name": "atom-p5ref",
   "main": "./lib/atom-p5ref",
-  "version": "0.0.0",
-  "description": "A short description of your package",
+  "version": "1.0",
+  "description": "Adds Processing's reference to Atom IDE.",
   "keywords": [
+    "processing",
+    "reference",
+    "p5"
   ],
   "activationCommands": {
     "atom-workspace": "atom-p5ref:look"
   },
-  "repository": "https://github.com/atom/atom-p5ref",
-  "license": "MIT",
+  "repository": "https://gitlab.com/414c45/atom-p5ref",
+  "license": "GPL",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
+    "browser-plus": ">=0.0.98"
   }
 }
