@@ -2,25 +2,10 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle atom-p5ref",
-        "command": "atom-p5ref:toggle"
+        "label": "Look for selection in Processing's reference",
+        "command": "atom-p5ref:look"
       }
     ]
   },
-  "menu": [
-    {
-      "label": "Packages",
-      "submenu": [
-        {
-          "label": "atom-p5ref",
-          "submenu": [
-            {
-              "label": "Toggle",
-              "command": "atom-p5ref:toggle"
-            }
-          ]
-        }
-      ]
-    }
-  ]
+  "menu": [ ]
 }

@@ -6,7 +6,7 @@
   "keywords": [
   ],
   "activationCommands": {
-    "atom-workspace": "atom-p5ref:toggle"
+    "atom-workspace": "atom-p5ref:look"
   },
   "repository": "https://github.com/atom/atom-p5ref",
   "license": "MIT",
