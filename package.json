@@ -11,7 +11,7 @@
   "activationCommands": {
     "atom-workspace": "atom-p5ref:look"
   },
-  "repository": "https://gitlab.com/414c45/atom-p5ref",
+  "repository": "https://github.com/Ale-/atom-p5ref",
   "license": "GPL",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
