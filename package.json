@@ -1,7 +1,7 @@
 {
   "name": "atom-p5ref",
   "main": "./lib/atom-p5ref",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Adds Processing's reference to Atom IDE.",
   "keywords": [
     "processing",
@@ -16,6 +16,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
